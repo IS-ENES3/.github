@@ -11,7 +11,8 @@ The community aims to develop a better understanding of past and present-day cli
 
 Explore more about IS-ENES project via the following:
 
-- [**IS-ENES Website**](https://is.enes.org/)
+- [**IS-ENES Website**](https://is-enes3.github.io/IS-ENES-Website/) (current GH domain, awaiting permanent domain)
+- [**ENES Portal**](https://is-enes3.github.io/IS-ENES-Portal-Website/) (current GH domain, awaiting permanent domain
 - [**IS-ENES on Twitter**](https://twitter.com/ISENES_RI)
 - [**IS-ENES on Zenodo**](https://zenodo.org/communities/is-enes3/?page=1&size=20)
 - [**IS-ENES on YouTube**](https://www.youtube.com/channel/UC24YCohRVh1WXqzBm9tkL2g?view_as=subscriber)
