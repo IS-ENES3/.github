@@ -28,3 +28,4 @@ For questions about the current GitHub repo, please contact the maintainers:
 - Valeriu Predoi <valeriu.predoi@ncas.ac.uk> GitHub: [@valeriupredoi](https://github.com/valeriupredoi)
 - Sophie Morellon
 - Fanny Adloff
+- Bouwe Andela
